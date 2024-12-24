@@ -6,6 +6,7 @@ import { Toaster } from "react-hot-toast";
 import Header from "@/components/globle/Header";
 import Footer from "@/components/globle/Footer";
 
+
 ;
 const sofiasans = localFont({
   src: "./fonts/SofiaSans-VariableFont_wght.ttf",
